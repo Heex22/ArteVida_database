@@ -1,9 +1,9 @@
-###Realizado por Alex He
+### Realizado por Alex He
 
-#Introducción
+# Introducción
 
-#Estructura
+# Estructura
 
-##Modelo Entidad-Relación
+## Modelo Entidad-Relación
 
-##Modelo Relacional
+## Modelo Relacional
